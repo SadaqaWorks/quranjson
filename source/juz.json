@@ -1,391 +1,391 @@
 [
     {
-        "index": 1,
+        "id": 1,
         "start": {
-            "index": 1,
-            "verse": "verse_1",
+            "sura": 1,
+            "verse": "1",
             "name": "Al-Fatiha"
         },
         "end": {
-            "index": 2,
-            "verse": "verse_141",
+            "sura": 2,
+            "verse": "141",
             "name": "Al-Baqara"
         }
     },
     {
-        "index": 2,
+        "id": 2,
         "start": {
-            "index": 2,
-            "verse": "verse_142",
+            "sura": 2,
+            "verse": "142",
             "name": "Al-Baqara"
         },
         "end": {
-            "index": 2,
-            "verse": "verse_252",
+            "sura": 2,
+            "verse": "252",
             "name": "Al-Baqara"
         }
     },
     {
-        "index": 3,
+        "id": 3,
         "start": {
-            "index": 2,
-            "verse": "verse_253",
+            "sura": 2,
+            "verse": "253",
             "name": "Al-Baqara"
         },
         "end": {
-            "index": 3,
-            "verse": "verse_92",
+            "sura": 3,
+            "verse": "92",
             "name": "Aal-Imran"
         }
     },
     {
-        "index": 4,
+        "id": 4,
         "start": {
-            "index": 3,
-            "verse": "verse_93",
+            "sura": 3,
+            "verse": "93",
             "name": "Aal-Imran"
         },
         "end": {
-            "index": 4,
-            "verse": "verse_23",
+            "sura": 4,
+            "verse": "23",
             "name": "An-Nisaa'"
         }
     },
     {
-        "index": 5,
+        "id": 5,
         "start": {
-            "index": 4,
-            "verse": "verse_24",
+            "sura": 4,
+            "verse": "24",
             "name": "An-Nisaa'"
         },
         "end": {
-            "index": 4,
-            "verse": "verse_147",
+            "sura": 4,
+            "verse": "147",
             "name": "An-Nisaa'"
         }
     },
     {
-        "index": 6,
+        "id": 6,
         "start": {
-            "index": 4,
-            "verse": "verse_148",
+            "sura": 4,
+            "verse": "148",
             "name": "An-Nisaa'"
         },
         "end": {
-            "index": 5,
-            "verse": "verse_81",
+            "sura": 5,
+            "verse": "81",
             "name": "Al-Ma'ida"
         }
     },
     {
-        "index": 7,
+        "id": 7,
         "start": {
-            "index": 5,
-            "verse": "verse_82",
+            "sura": 5,
+            "verse": "82",
             "name": "Al-Ma'ida"
         },
         "end": {
-            "index": 6,
-            "verse": "verse_110",
+            "sura": 6,
+            "verse": "110",
             "name": "Al-An'am"
         }
     },
     {
-        "index": 8,
+        "id": 8,
         "start": {
-            "index": 6,
-            "verse": "verse_111",
+            "sura": 6,
+            "verse": "111",
             "name": "Al-An'am"
         },
         "end": {
-            "index": 7,
-            "verse": "verse_87",
+            "sura": 7,
+            "verse": "87",
             "name": "Al-A'raf"
         }
     },
     {
-        "index": 9,
+        "id": 9,
         "start": {
-            "index": 7,
-            "verse": "verse_88",
+            "sura": 7,
+            "verse": "88",
             "name": "Al-A'raf"
         },
         "end": {
-            "index": 8,
-            "verse": "verse_40",
+            "sura": 8,
+            "verse": "40",
             "name": "Al-Anfal"
         }
     },
     {
-        "index": 10,
+        "id": 10,
         "start": {
-            "index": 8,
-            "verse": "verse_41",
+            "sura": 8,
+            "verse": "41",
             "name": "Al-Anfal"
         },
         "end": {
-            "index": 9,
-            "verse": "verse_92",
+            "sura": 9,
+            "verse": "92",
             "name": "Al-Tawba"
         }
     },
     {
-        "index": 11,
+        "id": 11,
         "start": {
-            "index": 9,
-            "verse": "verse_93",
+            "sura": 9,
+            "verse": "93",
             "name": "Al-Tawba"
         },
         "end": {
-            "index": 11,
-            "verse": "verse_5",
+            "sura": 11,
+            "verse": "5",
             "name": "Hud"
         }
     },
     {
-        "index": 12,
+        "id": 12,
         "start": {
-            "index": 11,
-            "verse": "verse_6",
+            "sura": 11,
+            "verse": "6",
             "name": "Hud"
         },
         "end": {
-            "index": 12,
-            "verse": "verse_52",
+            "sura": 12,
+            "verse": "52",
             "name": "Yusuf"
         }
     },
     {
-        "index": 13,
+        "id": 13,
         "start": {
-            "index": 12,
-            "verse": "verse_53",
+            "sura": 12,
+            "verse": "53",
             "name": "Yusuf"
         },
         "end": {
-            "index": 14,
-            "verse": "verse_52",
+            "sura": 14,
+            "verse": "52",
             "name": "Ibrahim"
         }
     },
     {
-        "index": 14,
+        "id": 14,
         "start": {
-            "index": 15,
-            "verse": "verse_1",
+            "sura": 15,
+            "verse": "1",
             "name": "Al-Hijr"
         },
         "end": {
-            "index": 16,
-            "verse": "verse_128",
+            "sura": 16,
+            "verse": "128",
             "name": "An-Nahl"
         }
     },
     {
-        "index": 15,
+        "id": 15,
         "start": {
-            "index": 17,
-            "verse": "verse_1",
+            "sura": 17,
+            "verse": "1",
             "name": "Al-Israa"
         },
         "end": {
-            "index": 18,
-            "verse": "verse_74",
+            "sura": 18,
+            "verse": "74",
             "name": "Al-Kahf"
         }
     },
     {
-        "index": 16,
+        "id": 16,
         "start": {
-            "index": 18,
-            "verse": "verse_75",
+            "sura": 18,
+            "verse": "75",
             "name": "Al-Kahf"
         },
         "end": {
-            "index": 20,
-            "verse": "verse_135",
+            "sura": 20,
+            "verse": "135",
             "name": "Ta-Ha"
         }
     },
     {
-        "index": 17,
+        "id": 17,
         "start": {
-            "index": 21,
-            "verse": "verse_1",
+            "sura": 21,
+            "verse": "1",
             "name": "Al-Anbiya"
         },
         "end": {
-            "index": 22,
-            "verse": "verse_78",
+            "sura": 22,
+            "verse": "78",
             "name": "Al-Hajj"
         }
     },
     {
-        "index": 18,
+        "id": 18,
         "start": {
-            "index": 23,
-            "verse": "verse_1",
+            "sura": 23,
+            "verse": "1",
             "name": "Al-Muminun"
         },
         "end": {
-            "index": 25,
-            "verse": "verse_20",
+            "sura": 25,
+            "verse": "20",
             "name": "Al-Furqan"
         }
     },
     {
-        "index": 19,
+        "id": 19,
         "start": {
-            "index": 25,
-            "verse": "verse_21",
+            "sura": 25,
+            "verse": "21",
             "name": "Al-Furqan"
         },
         "end": {
-            "index": 27,
-            "verse": "verse_55",
+            "sura": 27,
+            "verse": "55",
             "name": "An-Naml"
         }
     },
     {
-        "index": 20,
+        "id": 20,
         "start": {
-            "index": 27,
-            "verse": "verse_56",
+            "sura": 27,
+            "verse": "56",
             "name": "An-Naml"
         },
         "end": {
-            "index": 29,
-            "verse": "verse_45",
+            "sura": 29,
+            "verse": "45",
             "name": "Al-Ankabut"
         }
     },
     {
-        "index": 21,
+        "id": 21,
         "start": {
-            "index": 29,
-            "verse": "verse_46",
+            "sura": 29,
+            "verse": "46",
             "name": "Al-Ankabut"
         },
         "end": {
-            "index": 33,
-            "verse": "verse_30",
+            "sura": 33,
+            "verse": "30",
             "name": "Al-Ahzab"
         }
     },
     {
-        "index": 22,
+        "id": 22,
         "start": {
-            "index": 33,
-            "verse": "verse_31",
+            "sura": 33,
+            "verse": "31",
             "name": "Al-Ahzab"
         },
         "end": {
-            "index": 36,
-            "verse": "verse_27",
+            "sura": 36,
+            "verse": "27",
             "name": "Yasin"
         }
     },
     {
-        "index": 23,
+        "id": 23,
         "start": {
-            "index": 36,
-            "verse": "verse_28",
+            "sura": 36,
+            "verse": "28",
             "name": "Yasin"
         },
         "end": {
-            "index": 39,
-            "verse": "verse_31",
+            "sura": 39,
+            "verse": "31",
             "name": "Az-Zumar"
         }
     },
     {
-        "index": 24,
+        "id": 24,
         "start": {
-            "index": 39,
-            "verse": "verse_32",
+            "sura": 39,
+            "verse": "32",
             "name": "Az-Zumar"
         },
         "end": {
-            "index": 41,
-            "verse": "verse_46",
+            "sura": 41,
+            "verse": "46",
             "name": "Fussilat"
         }
     },
     {
-        "index": 25,
+        "id": 25,
         "start": {
-            "index": 41,
-            "verse": "verse_47",
+            "sura": 41,
+            "verse": "47",
             "name": "Fussilat"
         },
         "end": {
-            "index": 45,
-            "verse": "verse_37",
+            "sura": 45,
+            "verse": "37",
             "name": "Al-Jathiya"
         }
     },
     {
-        "index": 26,
+        "id": 26,
         "start": {
-            "index": 46,
-            "verse": "verse_1",
+            "sura": 46,
+            "verse": "1",
             "name": "Al-Ahqaf"
         },
         "end": {
-            "index": 51,
-            "verse": "verse_30",
+            "sura": 51,
+            "verse": "30",
             "name": "Az-Zariyat"
         }
     },
     {
-        "index": 27,
+        "id": 27,
         "start": {
-            "index": 51,
-            "verse": "verse_31",
+            "sura": 51,
+            "verse": "31",
             "name": "Az-Zariyat"
         },
         "end": {
-            "index": 57,
-            "verse": "verse_29",
+            "sura": 57,
+            "verse": "29",
             "name": "Al-Hadid"
         }
     },
     {
-        "index": 28,
+        "id": 28,
         "start": {
-            "index": 58,
-            "verse": "verse_1",
+            "sura": 58,
+            "verse": "1",
             "name": "Al-Mujadilah"
         },
         "end": {
-            "index": 66,
-            "verse": "verse_12",
+            "sura": 66,
+            "verse": "12",
             "name": "At-Tahrim"
         }
     },
     {
-        "index": 29,
+        "id": 29,
         "start": {
-            "index": 67,
-            "verse": "verse_1",
+            "sura": 67,
+            "verse": "1",
             "name": "Al-Mulk"
         },
         "end": {
-            "index": 77,
-            "verse": "verse_50",
+            "sura": 77,
+            "verse": "50",
             "name": "Al-Mursalat"
         }
     },
     {
-        "index": 30,
+        "id": 30,
         "start": {
-            "index": 78,
-            "verse": "verse_1",
+            "sura": 78,
+            "verse": "1",
             "name": "An-Naba"
         },
         "end": {
-            "index": 114,
-            "verse": "verse_6",
+            "sura": 114,
+            "verse": "6",
             "name": "An-Nas"
         }
     }
